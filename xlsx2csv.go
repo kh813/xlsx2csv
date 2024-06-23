@@ -93,7 +93,7 @@ Flags :
 Example: 
     Show "my_file.xlsx" in CSV format
         ./xlsx2csv -f my_file.xlsx
-    Show 2nd sheet of "my_file.xlsx" in CSV format and redirec to a file
+    Show 2nd sheet of "my_file.xlsx" in CSV format and redirect to a file
         ./xlsx2csv -f my_file.xlsx -s 2 > new_file.csv
     Show "my_file.xlsx" in TSV format
         ./xlsx2csv -f my_file.xlsx -t 
